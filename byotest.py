@@ -1,6 +1,3 @@
-def number_of_evens(numbers):
-    return 0
-
 '''
 Here, we wrap our assertion tests in a function
 so that we can see the value if a test fails
